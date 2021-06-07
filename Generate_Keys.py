@@ -30,9 +30,6 @@ UUID可以被用作多种用途, 既可以用来短时间内标记一个对象, 
 """
 
 
-
-#%%
-
 """
 方法一：在字典里随机选4个字符，选四组
 """
@@ -49,7 +46,7 @@ keys = '-'.join(parts)
 print('Here is the Keys: {:s}'.format(keys))
 print('Enjoy it!')
 
-#%%
+
 
 """
 方法二：通过UUID模块中的 uuid.uuid4() 函数随机生成标识符，取中间16位
