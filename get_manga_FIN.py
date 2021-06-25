@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+Desc: fetch mangas from https://manhua.dmzj.com/
 Created on Tue Jun  4 22:25:30 2019
 
 @author: sinnoha
